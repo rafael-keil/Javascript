@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "mathjs": "9.4.4"
+    }
+}
